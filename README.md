@@ -42,11 +42,12 @@ code .
 
 ## Contributors
 
+- [Sumaia Sorna](https://github.com/SumaiaSorna)
 - [Andrada Gacichevici](https://github.com/andradag)
 - [Conor Kelly](https://github.com/conorjkelly96)
 - [Matt Palmer](https://github.com/tigerbath)
 - [Yashemabeth](https://github.com/Yashemabeth)
-- [Sumaia Sorna](https://github.com/SumaiaSorna)
+
 
 ## About The Project
 
